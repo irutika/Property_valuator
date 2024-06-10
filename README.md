@@ -10,16 +10,16 @@ Finally, I developed an interface using HTML, CSS, and JavaScript. This interfac
 
 During model building, I covered essential concepts like:
 
-Data loading and cleaning
-Outlier detection and removal
-Feature engineering
-Dimensionality reduction
-GridSearchCV for hyperparameter tuning
+Data loading and cleaning,
+Outlier detection and removal,
+Feature engineering,
+Dimensionality reduction,
+GridSearchCV for hyperparameter tuning,
 K-fold cross-validation
 
 The project utilizes the following technologies and tools:
 
-Programming Language: Python
+Programming Language: Python</br>
 Data Manipulation: NumPy and Pandas
 Data Visualization: Matplotlib
 Machine Learning: scikit-learn
